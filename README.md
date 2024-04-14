@@ -13,8 +13,24 @@ Screenshots
 ![page1 1](https://github.com/DheerajRay-01/responsive_landing_page/assets/144889143/f6926a52-c57f-41f0-95d0-8451cee96e0d)
 
 
-`Features`
+Features--
+
 1.Fully responsive design
+
 2.Optimized for desktop and mobile viewing
+
 3.Clean and modern layout
+
 4.Easy to customize and extend
+
+
+
+
+
+Usage--
+
+To view the landing page, simply open the index.html file in your web browser. You can also clone the repository to your local machine and open the index.html file.
+
+`git clone https://github.com/your-username/your-repository.git`
+
+`cd your-repository`
